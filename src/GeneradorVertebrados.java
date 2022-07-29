@@ -3,7 +3,7 @@ public class GeneradorVertebrados {
         Vertebrado[] miVertebrados = new Vertebrado[4];
         miVertebrados[0] = new Vertebrado("Camello", "Mamifero");
         miVertebrados[1] = new Vertebrado("Oso", "Mamifero");
-        
+        miVertebrados[1] = new Vertebrado("Camello", "Mamifero");
         return miVertebrados;
     }
 }
